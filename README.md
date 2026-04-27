@@ -21,7 +21,7 @@ cd <repo-name>
 uv sync
 ```
 
-Open `soybean_us_yield_prediction.ipynb` and run all cells.
+Open `soybean_us_yield_prediction.ipynb`, activate virtual environmant and run all cells.
 
 
 ## Project structure
